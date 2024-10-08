@@ -1,4 +1,4 @@
-# Applying for financial aid on coursera 
+# Applying for financial aid on Coursera 
 
 ## Everything between quotes you should change it 
 ![1](images/1-2.png)
@@ -9,15 +9,15 @@
 ![6](images/7.png)
 
 ## Why are you applying for Financial Aid? (150 words minimum required)
-Hello, my name is "your name" and I live in "your country", the country in development. I'm applying for Financial Aid for the course "Course name" because I do not have any special source of income and I don't earn enough money and I can't afford the full tuition at this time of my life and career.
-Receiving Financial Aid for this course will help me get valuable knowledge in "write your career neme like machine learening" ,  and i searching for a job from a long time for earning money for taking this course, and i not find yet, and the time goes on, and receiving financial aid will allow me to focus on my studies and by taking it to allow to take off a paid internship and can take another course in machine learning path .
-I want to invest in my career and my education, but at this moment I can only invest my time to increase my knowledge and advance in my career and not the money. Hopefully this will change in the upcoming years because I'm ambitious, I want to increase my programming knowledge and new technologies, I'm eager to work and to advance in my career.
+Hello, my name is [Your Name] and I live in developing nation of [Your Country]. I'm applying for Financial Aid for the course [Course Name] because I do not have any source of income, and thus, can't afford the full tuition of the course at this time of my life and career.
+Receiving Financial Aid for this course will help me get valuable knowledge in [Write your preferred career, for example, Machine Learning]. I have been searching for a job for a long time, but haven't had any luck yet... Time is of the essence for me, and receiving financial aid will allow me to focus on my studies and further my knowledge. 
+I would like to invest in my career and my education, but at this moment I can only invest my time to increase my knowledge and advance in my career, since I do not have any funds. Hopefully, this will change in the upcoming years because I'm ambitious, and I want to increase my wealth of knowledge and practical skills. As such, I'm eager to work, and advance in my career.
 
 
 ## How will taking this course help you achieve your career goals? (150 words minimum required)
-I have a solid background in "math and algorithms and problem-solving skills", so i eager to learn "machine learning" and that's the course the first step to me to making good projects that help the humanity for an easy life and solve the big problem. 
-My main career goal is to learn every day, i really want to learn and to progress in my career.
-"Programming" requires constant learning and improving, taking a course can help me advance in my knowledge.
+I have a solid background in [Any skills you specialize in, preferably related to the course. For example, Maths and Problem Solving]. So I am eager to learn [Course Name] and that course will be the first step to me to learning practical skills and making good projects that help the community.
+My main motto is to learn every day, and I really want to learn and progress in my career.
+[Course Name] requires constant learning and improving, and I am confident that I have what it takes!
 
 I plan on gaining additional skills by taking related classes and continuing my involvement with a variety of professional associations and I noticed that there a lot of company provides in internship and jobs in the related filled, and I would certainly be interested in taking it and improving my self to be on of the pioneer of "machine learning and deep learning."
 There are many opportunities in this field that the candidate can join but must have good knowledge to join these opportunities, so I see that this course with good tutorials and exercises to join me in the world's largest companies and creativity in this area
