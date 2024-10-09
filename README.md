@@ -1,4 +1,4 @@
-# Applying for financial aid on Coursera 
+# Applying For Financial Aid On Coursera 
 
 ## Everything between quotes you should change it 
 ![1](images/1-2.png)
@@ -19,7 +19,7 @@ I have a solid background in [Any skills you specialize in, preferably related t
 My main motto is to learn every day, and I really want to learn and progress in my career.
 [Course Name] requires constant learning and improving, and I am confident that I have what it takes!
 
-I plan on gaining additional skills by taking related classes and continuing my involvement with a variety of professional associations and I noticed that there a lot of company provides in internship and jobs in the related filled, and I would certainly be interested in taking it and improving my self to be on of the pioneer of "machine learning and deep learning."
+I intend to learn additional skills by taking related courses and involving myself in a variety of professional associations. I have seen that there a lot of companies that provide internships and jobs in the related field, and I certainly am interested in engaging and improving myself to be on of the pioneer of "machine learning and deep learning."
 There are many opportunities in this field that the candidate can join but must have good knowledge to join these opportunities, so I see that this course with good tutorials and exercises to join me in the world's largest companies and creativity in this area
 
 ## If you answered no, please help us understand why.?
