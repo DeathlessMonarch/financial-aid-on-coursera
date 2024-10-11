@@ -1,6 +1,6 @@
 # Applying For Financial Aid On Coursera 
 
-## Replaace everything in between square brackets [ ]
+## Replace everything in between square brackets [ ]
 ![2](images/3.png)
 ![3](images/4.png)
 ![4](images/5.png)
