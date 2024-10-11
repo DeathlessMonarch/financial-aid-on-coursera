@@ -1,7 +1,6 @@
 # Applying For Financial Aid On Coursera 
 
-## Everything between quotes you should change it 
-![1](images/1-2.png)
+## Replaace everything in between square brackets [ ]
 ![2](images/3.png)
 ![3](images/4.png)
 ![4](images/5.png)
@@ -19,8 +18,8 @@ I have a solid background in [Any skills you specialize in, preferably related t
 My main motto is to learn every day, and I really want to learn and progress in my career.
 [Course Name] requires constant learning and improving, and I am confident that I have what it takes!
 
-I intend to learn additional skills by taking related courses and involving myself in a variety of professional associations. I have seen that there a lot of companies that provide internships and jobs in the related field, and I certainly am interested in engaging and improving myself to be on of the pioneer of "machine learning and deep learning."
-There are many opportunities in this field that the candidate can join but must have good knowledge to join these opportunities, so I see that this course with good tutorials and exercises to join me in the world's largest companies and creativity in this area
+I intend to learn additional skills by taking related courses and involving myself in a variety of professional associations. I have seen that there a lot of companies that provide internships and jobs in the related field, and I am certainly interested in engaging and improving myself to be on the cutting edge of [Your career choice]
+There are many opportunities in [Your preferred field] that the candidates can take advantage of, but for that they must have good knowledge of these opportunities. For me, this course is one such opportunity, to fulfill my dream of joining the World's Largest Companies and showcasing my creativity.
 
 ## If you answered no, please help us understand why.?
-Because there are alot of developing countries the average rate of income is low and not enough personal needs for home so it isn't enough to get paid courses, and we need a lot of free courses for learning and improving ourselves and hlep the humanity and society.
+Because like I said, I belong to a developing country and our average rate of income is low and as such, I cannot afford the luxury of purchasing this course. So, I need your help to complete this course, as I work towards my dream and ultimately help Humanity and the Society.
