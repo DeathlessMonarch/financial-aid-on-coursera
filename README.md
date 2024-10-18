@@ -11,9 +11,11 @@
 
 
 ## Why are you applying for Financial Aid? (150 words minimum required)
-Hello, my name is [Your Name] and I live in developing nation of [Your Country]. I'm applying for Financial Aid for the course [Course Name] because I do not have any source of income, and thus, can't afford the full tuition of the course at this time of my life and career.
-Receiving Financial Aid for this course will help me get valuable knowledge in [Write your preferred career, for example, Machine Learning]. I have been searching for a job for a long time, but haven't had any luck yet... Time is of the essence for me, and receiving financial aid will allow me to focus on my studies and further my knowledge. 
-I would like to invest in my career and my education, but at this moment I can only invest my time to increase my knowledge and advance in my career, since I do not have any funds. Hopefully, this will change in the upcoming years because I'm ambitious, and I want to increase my wealth of knowledge and practical skills. As such, I'm eager to work, and advance in my career.
+Hello, my name is [Your Name], and I live in the developing nation of [Your Country]. I am applying for Financial Aid for the course [Course Name] because, at this point in my life and career, I do not have a steady source of income, which makes it difficult for me to afford the course fee.
+This course is crucial for me because it will allow me to gain knowledge in [preferred career, e.g., Machine Learning], a field I am passionate about and eager to work in. For some time now, I have been actively searching for a job, but finding opportunities has been a challenge. I strongly believe that this course will give me the skills and credentials I need to improve my chances of securing meaningful employment.
+Right now, the only resource I can invest is my time. With financial aid, I can dedicate myself fully to learning without worrying about the cost, which will help me make real progress toward my career goals. I am ambitious, and I want to expand both my knowledge and my practical skills to create a better future for myself.
+This course represents an important step in that journey, and I’m confident that the opportunity to complete it will have a significant impact on my professional development. I am excited to keep learning, growing, and eventually contributing to the field.
+Thank you for considering my application. I am eager to take this next step in my education with your support.
 
 
 ## How will taking this course help you achieve your career goals? (150 words minimum required)
