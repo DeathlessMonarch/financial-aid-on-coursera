@@ -25,7 +25,7 @@ Thank you for considering my application. I am eager to take this next step in m
 ## How will taking this course help you achieve your career goals? (150 words minimum required)
 I have a strong background in skills like [Any skills you specialize in, preferably related to the course. For eg, Math and Problem Solving], which have always been essential in my learning journey. I’m excited to take [Course Name] because it’s the first step toward gaining practical skills that I can apply to real-world projects, particularly ones that can positively impact my community.
 
-My main goal is to keep learning and evolving every day, and I see this course as a key opportunity to grow in my career. [Course Name] is known for its emphasis on continuous learning and improvement, and I am confident that my foundational skills will help me thrive in this environment.
+My main goal is to keep learning and evolving every day, and I see this course as a key opportunity to grow in my career. [Your Preferred Field] is known for its emphasis on continuous learning and improvement, and I am confident that my interest and determination will help me thrive in this environment.
 
 Beyond this course, I plan to deepen my knowledge by exploring related courses and actively participating in professional associations in the field. I’ve noticed that many companies offer internships and job opportunities in this area, and I’m eager to engage, develop myself further, and stay on the cutting edge of [Your Career Choice].
 
@@ -33,7 +33,7 @@ There are numerous opportunities in [Your Preferred Field], and I believe this c
 
 
 # Some Tips (Optional)
-Those who personalize the application and make it sound more genuine will always have a higher chance of getting their application approved. Here are some tips :
+Those who will personalize the application and make it sound more genuine will always have a higher chance of getting their application approved. Here are some tips :
 
 1. **Be clear and honest about your financial situation**  
 Be transparent about your financial challenges. Coursera wants to understand why you're applying for aid, so provide specific reasons rather than generic statements.  
@@ -73,4 +73,4 @@ Make sure to review your application for clarity, grammar, and tone. A well-orga
 10. **Be patient after submission**  
 After submitting, you may have to wait up to two weeks for a decision. Check your email regularly, but don't get discouraged if it takes a bit of time. Coursera often responds within two weeks. Make sure to monitor your inbox for updates, and if approved, be ready to start the course immediately to make the most of the opportunity.
 
-These tips should help guide you towards writing more thoughtful and effective financial aid applications, improving their chances of success!
+These tips will guide you towards writing more thoughtful and effective financial aid applications, and improve their chances of success!
