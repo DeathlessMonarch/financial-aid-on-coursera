@@ -41,23 +41,23 @@ Example: Instead of saying, *"I cannot afford the course,"* you could say, *"As 
 
 2. **Connect the course to your career or academic goals**  
 Clearly explain how this course will help you achieve your personal or professional goals. Show how the skills gained will advance your career, education, or community impact.  
-Example: *"I am pursuing a career in data science, and this course will equip me with essential skills in data analysis. These skills will enable me to contribute to projects at my current job and eventually secure a more advanced role within the industry."*
+Example: *"I am pursuing a career as a prompt engineer, and this course will equip me with essential skills in prompt engineering. These skills will enable me to contribute to projects at my current job and eventually secure a more advanced role within the industry."*
 
-3. **Explain how the course fits into a larger plan**  
-Describe how the course is part of a broader learning or career path. This shows Coursera that the course is not a one-off, but part of a long-term commitment.  
-Example: *"I plan to take this course to strengthen my programming skills, which will prepare me for more advanced courses in machine learning and artificial intelligence. Ultimately, I aim to use these skills to create solutions that can impact healthcare access in my community."*
+3. **Show how the course will benefit others**  
+Coursera values applications that highlight how your learning will benefit others. Explain how the skills you gain from this course will have a broader impact, whether it’s helping your team, community, or industry.
+Example: *"By mastering prompt engineering, I will be able to create more efficient AI systems that can improve workflows in small businesses. This will help local entrepreneurs save time and resources, allowing them to focus on growing their business. Additionally, I plan to share my knowledge with others in my community, empowering them to better understand and use AI tools."*
 
 4. **Describe the steps you’ve taken to afford the course**  
 Financial aid reviewers want to know that you're proactive. Mention any steps you’ve taken to try to afford the course on your own.  
 Example: *"I have been saving for my education, but my current expenses for textbooks, tuition, and living costs limit my ability to pay for additional online courses. I’ve also explored free resources, but this particular course offers specific certifications and content I cannot access elsewhere."*
 
 5. **Write thoughtful, detailed answers**  
-Avoid giving one-sentence answers. Coursera reviewers appreciate applicants who take time to explain their motivations and situation clearly.  
-Example: Instead of saying *"This course will help me in my career,"* you could elaborate with *"This course will teach me the data visualization techniques needed for my role as a marketing analyst. With this knowledge, I can improve the way my team presents insights to clients, increasing the effectiveness of our campaigns."*
+Avoid giving one-sentence answers. Coursera reviewers appreciate applicants who take time to explain their motivations and situation clearly. Just don't repeat statements or drag things out to increase the word count. It leaves a bad impression : Detailed and Concise!
+Example: Instead of saying *"This course will help me in my career,"* you could elaborate with *"My journey into prompt engineering began with ChatGPT, where I realized how crucial precise, thoughtful prompts are for accurate outputs. This course will teach me the proper prompting techniques needed for my role as a prompt engineer."*
 
 6. **Emphasize your desire to learn and grow**  
 Demonstrate that you're motivated to continually improve your skills, as Coursera looks for learners who are committed to their growth.  
-Example: *"I am passionate about staying updated with the latest developments in digital marketing. This course will help me expand my expertise in SEO, which is crucial for my role in managing online content for small businesses in my community."*
+Example: *"I am passionate about staying updated with the latest developments in artificial intelligence. This course will help me expand my expertise in AI, and I also plan to not just learn how to prompt AI, but also learn languages like Python and gain a deeper understanding of how AIs work."*
 
 7. **Don’t be afraid to share personal challenges**  
 If you face specific personal challenges (e.g., family responsibilities, unemployment), it’s okay to share them as long as they relate to your need for financial aid.  
@@ -70,7 +70,8 @@ Example: Instead of saying *"I can't afford anything right now,"* you might say,
 9. **Review and edit before submitting**  
 Make sure to review your application for clarity, grammar, and tone. A well-organized, thoughtful application shows that you're serious about your learning. Re-read each section to ensure that it answers the question thoroughly. You might realize you need to add more detail, like explaining how a certain skill will directly apply to your job.
 
-10. **Be patient after submission**  
-After submitting, you may have to wait up to two weeks for a decision. Check your email regularly, but don't get discouraged if it takes a bit of time. Coursera often responds within two weeks. Make sure to monitor your inbox for updates, and if approved, be ready to start the course immediately to make the most of the opportunity.
+10. **Explain Any Other Financial Aid or Scholarships You've Applied For**  
+If you’ve applied for or received other financial aid, mention it. This shows that you are making a genuine effort to pursue educational opportunities despite financial challenges.
+Example: *"I have also applied for scholarships at my local university, but they do not cover online courses. As a result, I am seeking financial aid for this specific program."*
 
 These tips will guide you towards writing more thoughtful and effective financial aid applications, and improve their chances of success!
