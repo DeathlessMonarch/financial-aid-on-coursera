@@ -33,7 +33,7 @@ There are numerous opportunities in [Your Preferred Field], and I believe this c
 
 
 # Some Tips (Optional)
-Those who personalize the given application and make it sound more genuine will always have a higher chance of getting their application approved. Here are some tips :
+Those who personalize the application and make it sound more genuine will always have a higher chance of getting their application approved. Here are some tips :
 
 1. **Be clear and honest about your financial situation**  
 Be transparent about your financial challenges. Coursera wants to understand why you're applying for aid, so provide specific reasons rather than generic statements.  
