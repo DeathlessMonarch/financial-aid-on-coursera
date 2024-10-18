@@ -68,11 +68,9 @@ Use professional and positive language throughout your application. Avoid compla
 Example: Instead of saying *"I can't afford anything right now,"* you might say, *"Given my current financial situation, this aid would allow me to continue developing my skills without creating an additional financial burden."*
 
 9. **Review and edit before submitting**  
-Make sure to review your application for clarity, grammar, and tone. A well-organized, thoughtful application shows that you're serious about your learning.  
-Example: Re-read each section to ensure that it answers the question thoroughly. You might realize you need to add more detail, like explaining how a certain skill will directly apply to your job.
+Make sure to review your application for clarity, grammar, and tone. A well-organized, thoughtful application shows that you're serious about your learning. Re-read each section to ensure that it answers the question thoroughly. You might realize you need to add more detail, like explaining how a certain skill will directly apply to your job.
 
 10. **Be patient after submission**  
-After submitting, you may have to wait up to two weeks for a decision. Check your email regularly, but don't get discouraged if it takes a bit of time.  
-Example: Coursera often responds within two weeks. Make sure to monitor your inbox for updates, and if approved, be ready to start the course immediately to make the most of the opportunity.
+After submitting, you may have to wait up to two weeks for a decision. Check your email regularly, but don't get discouraged if it takes a bit of time. Coursera often responds within two weeks. Make sure to monitor your inbox for updates, and if approved, be ready to start the course immediately to make the most of the opportunity.
 
 These tips should help guide you towards writing more thoughtful and effective financial aid applications, improving their chances of success!
