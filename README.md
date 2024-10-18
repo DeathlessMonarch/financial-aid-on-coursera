@@ -1,11 +1,14 @@
 # Applying For Financial Aid On Coursera 
 
 ## Replace everything in between square brackets [ ]
-![2](images/3.png)
-![3](images/4.png)
-![4](images/5.png)
-![5](images/6.png)
-![6](images/7.png)
+![1 copy](https://github.com/user-attachments/assets/093aaa8a-b5f5-4381-b143-18f6558ea5f6)
+![2 copy](https://github.com/user-attachments/assets/a6416ed9-13b2-4501-8e41-e565ae03d580)
+![3 copy](https://github.com/user-attachments/assets/50f481f1-8f5e-45bf-9a96-6923eafdd5c3)
+![4 copy](https://github.com/user-attachments/assets/eab45425-8f56-44f3-961e-045945ffe128)
+![5 copy](https://github.com/user-attachments/assets/74cce910-b07f-4f56-88ce-6cf43c4cf28b)
+![6 copy](https://github.com/user-attachments/assets/6262addc-4510-459a-8c57-5f20b7140abc)
+![7 copy](https://github.com/user-attachments/assets/2535c6c1-066f-4794-a9ce-98f42dd61f00)
+
 
 ## Why are you applying for Financial Aid? (150 words minimum required)
 Hello, my name is [Your Name] and I live in developing nation of [Your Country]. I'm applying for Financial Aid for the course [Course Name] because I do not have any source of income, and thus, can't afford the full tuition of the course at this time of my life and career.
